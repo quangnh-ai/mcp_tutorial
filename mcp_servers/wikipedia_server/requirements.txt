@@ -1,0 +1,9 @@
+mcp[cli]==1.6.0
+httpx==0.28.1
+langgraph==0.3.22
+langchain-google-genai==2.1.2
+python-dotenv==1.1.0
+pydantic==2.11.1
+arxiv==2.1.3
+langchain-community==0.3.20
+wikipedia==1.4.0

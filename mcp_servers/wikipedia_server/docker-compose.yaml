@@ -1,0 +1,9 @@
+version: '3'
+services:
+  mcp_wiki_server:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "6000:8000"
+    
